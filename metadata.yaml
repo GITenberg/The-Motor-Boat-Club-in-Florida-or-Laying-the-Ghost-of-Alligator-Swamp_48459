@@ -1,4 +1,8 @@
 _repo: The-Motor-Boat-Club-in-Florida-or-Laying-the-Ghost-of-Alligator-Swamp_48459
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48459-h/images/cover.jpg
 creator:
   author:
     agent_name: Hancock, H. Irving (Harrie Irving)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2034
     wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48459#The-Motor-Boat-Club-in-Florida-or-Laying-the-Ghost-of-Alligator-Swamp
 gutenberg_issued: '2015-03-11'
 gutenberg_type: Text
 identifiers:
